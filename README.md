@@ -1,7 +1,5 @@
 # Image-Slider
 
-# Description
-
 This project is a simple yet elegant image slider (carousel) that allows users to navigate through a set of images with smooth transitions. The carousel highlights images with a stylish 3D effect, and users can navigate using previous and next buttons.
 
 # Features
@@ -41,15 +39,15 @@ project-folder/
 
 # Setup and Installation
 
-No special installation is required. Simply open the index.html file in any modern web browser.
+No special installation is required. Simply open the `index.html` file in any modern web browser.
 
 # Customization
 
-- To add more images, insert new <div class="carousel-slide"> elements inside the .carousel-container.
+- To add more images, insert new `<div class="carousel-slide">`elements inside the `.carousel-container`
 
-- Modify styles in styles.css to change appearance, animations, or layout.
+- Modify styles in `styles.css` to change appearance, animations, or layout.
 
-- Update script.js to adjust transition speeds or effects.
+- Update `script.js` to adjust transition speeds or effects.
 
 # License
 
