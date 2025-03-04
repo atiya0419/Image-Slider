@@ -45,7 +45,7 @@ No special installation is required. Simply open the index.html file in any mode
 
 # Customization
 
-- To add more images, insert new <div class="carousel-slide"> elements inside the .carousel-container in index.html.
+- To add more images, insert new <div class="carousel-slide"> elements inside the .carousel-container.
 
 - Modify styles in styles.css to change appearance, animations, or layout.
 
