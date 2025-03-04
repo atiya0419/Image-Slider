@@ -33,7 +33,7 @@ project-folder/
 
 # How to Use
 
-1. Open index.html in a web browser.
+1. Open  `index.html` in a web browser.
 
 2. Use the prev (<) and next (>) buttons to navigate through the images.
 
