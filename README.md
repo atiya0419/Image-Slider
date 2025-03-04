@@ -15,11 +15,11 @@ This project is a simple yet elegant image slider (carousel) that allows users t
 
 # Technologies Used
 
-#HTML: Structure of the image slider.
+- **HTML**: Structure of the image slider.
 
-CSS: Styling for the layout, animations, and transitions.
+- **CSS**: Styling for the layout, animations, and transitions.
 
-JavaScript: Handles the dynamic behavior of the slider, including navigation and transitions.
+- **JavaScript**: Handles the dynamic behavior of the slider, including navigation and transitions.
 
 # Project Structure
 
