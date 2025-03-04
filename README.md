@@ -26,10 +26,10 @@ JavaScript: Handles the dynamic behavior of the slider, including navigation and
 # Project Structure
 
 project-folder/
-│── index.html        # Main HTML file
-│── styles.css        # Styling and animations
-│── script.js         # JavaScript logic for slider
-│── images/           # Folder containing images
+- │── index.html        # Main HTML file
+- │── styles.css        # Styling and animations
+- │── script.js         # JavaScript logic for slider
+- │── images/           # Folder containing images
 
 # How to Use
 
@@ -45,11 +45,11 @@ No special installation is required. Simply open the index.html file in any mode
 
 # Customization
 
-To add more images, insert new <div class="carousel-slide"> elements inside the .carousel-container in index.html.
+- To add more images, insert new <div class="carousel-slide"> elements inside the .carousel-container in index.html.
 
-Modify styles in styles.css to change appearance, animations, or layout.
+- Modify styles in styles.css to change appearance, animations, or layout.
 
-Update script.js to adjust transition speeds or effects.
+- Update script.js to adjust transition speeds or effects.
 
 # License
 
