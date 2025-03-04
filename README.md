@@ -5,9 +5,9 @@
 This project is a simple yet elegant image slider (carousel) that allows users to navigate through a set of images with smooth transitions. The carousel highlights images with a stylish 3D effect, and users can navigate using previous and next buttons.
 
 # Features
-Smooth image sliding transitions
+- **Smooth image sliding transitions**
 
-3D perspective effect for non-active slides
+-**3D perspective effect for non-active slides**
 
 Caption overlays for each image
 
