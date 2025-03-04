@@ -7,7 +7,7 @@ This project is a simple yet elegant image slider (carousel) that allows users t
 # Features
 - **Smooth image sliding transitions**
 
--**3D perspective effect for non-active slides**
+- 3D perspective effect for non-active slides
 
 Caption overlays for each image
 
